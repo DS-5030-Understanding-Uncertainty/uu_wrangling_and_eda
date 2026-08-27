@@ -1,0 +1,5 @@
+data.zip
+data/* 
+# /* = ignore all files in the data directory
+# activate, 'git add .gitignore' in terminal to apply the changes
+.venv/
